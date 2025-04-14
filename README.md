@@ -28,17 +28,3 @@
   </a>
 </p>
 <br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-<a href="https://github.com/David052697" target="_blank"> https://github.com/David052697</a>
-  
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
-  <br>
-<br><br>
